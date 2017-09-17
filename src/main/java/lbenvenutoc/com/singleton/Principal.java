@@ -20,7 +20,7 @@ public class Principal {
 		InstitutoEducativo instituto4 = InstitutoEducativo.getInstance();
 		System.out.println("4: " + instituto4.getNombreInstituto());
 
-		instituto3.setNombreInstituto("COMPUTRONIC");
+		instituto3.setNombreInstituto("IDAT");
 
 		System.out.println("1 bis: " + instituto1.getNombreInstituto());
 		
